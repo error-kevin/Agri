@@ -1,6 +1,6 @@
-# AgriSarthi - Empowering Farmers with AI
+# AgriSaarthi - Empowering Farmers with AI
 
-**AgriSarthi** is a mobile/web application designed to empower small and marginal farmers by providing personalized, AI-driven agricultural advisory, skill development resources, and market linkages. Addressing climate change impacts and resource constraints is at the core of AgriSarthi's mission.
+**AgriSaarthi** is a mobile/web application designed to empower small and marginal farmers by providing personalized, AI-driven agricultural advisory, skill development resources, and market linkages. Addressing climate change impacts and resource constraints is at the core of AgriSaarthi's mission.
 
 ## Key Features
 
