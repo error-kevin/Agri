@@ -1,6 +1,6 @@
-# AgriMitra - Empowering Madhya Pradesh Farmers with AI
+# AgriSarthi - Empowering Farmers with AI
 
-**AgriMitra** is a mobile/web application designed to empower small and marginal farmers in Madhya Pradesh by providing personalized, AI-driven agricultural advisory, skill development resources, and market linkages. Addressing climate change impacts and resource constraints is at the core of AgriMitra's mission.
+**AgriSarthi** is a mobile/web application designed to empower small and marginal farmers by providing personalized, AI-driven agricultural advisory, skill development resources, and market linkages. Addressing climate change impacts and resource constraints is at the core of AgriSarthi's mission.
 
 ## Key Features
 
